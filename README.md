@@ -1,6 +1,6 @@
 ## Overview
 
-This is a Paxa board application built using React JS, helps in  managing and optimizing workflow, typically composed of columns representing different stages of a process, with tasks moving from left to right as they progress.
+This is a Paxa board application , helps in  managing and optimizing work, contains of columns representing different stages of an activity, with tasks moving from left to right as they progress.
 
 
 ## Installation
